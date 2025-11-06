@@ -34,5 +34,5 @@ Sigue estos pasos para ejecutar el proyecto en un entorno local.
 ### 2. Clonar el Repositorio
 
 ```bash
-git clone [https://github.com/](https://github.com/)[TU_USUARIO]/[TU_REPOSITORIO].git
-cd [TU_REPOSITORIO]
+git clone https://github.com/Cfelipe001/proyecto_recetas.git 
+
