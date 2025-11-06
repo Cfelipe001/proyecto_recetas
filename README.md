@@ -1,6 +1,9 @@
 # 🥑Aplicación Recetas
 
-**Autores:** Grupo 4 – Ingeniería de Software II  
+**Autores:** Grupo 5 – Ingeniería de Software II  
+Miguel Ángel Afanador Quintero, Edwin Mauricio Cañas Cacua,
+Jesús David Rodriguez Mulford, Cristián Felipe Gómez, Gabriela Hernández Rey
+
 **Docente:** Antonio Rodríguez Linares  
 **Fecha:** Noviembre 2025
 
